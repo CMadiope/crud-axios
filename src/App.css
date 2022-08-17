@@ -5,8 +5,18 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: #212121;
+  flex-direction: column;
 }
 
 .main-header {
   font-family: 'Montserrat', sans-serif;
+  color: whitesmoke;
+}
+
+.create-form {
+  color: whitesmoke !important;
+  font-family: 'Montserrat',
+    sans-serif;
+    font-size: 12px !important;
 }
